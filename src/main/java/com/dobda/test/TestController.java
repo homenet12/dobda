@@ -8,7 +8,7 @@ public class TestController {
     
     @GetMapping("/test")
     public String test(){
-        return "hello test23";
+        return "hello test234";
     }
     //jenkins cicd test!!!
 }
